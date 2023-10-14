@@ -23,7 +23,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="DZ1.py" />
-    <Compile Include="DZ2.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.11" />
