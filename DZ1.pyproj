@@ -12,6 +12,7 @@
     <Name>DZ1</Name>
     <RootNamespace>DZ1</RootNamespace>
     <InterpreterId>Global|PythonCore|3.11</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
